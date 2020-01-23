@@ -1,2 +1,2 @@
 # grayscale
-Conerts your images to grayscale
+Converts your images to grayscale
