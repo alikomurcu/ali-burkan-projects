@@ -1,3 +1,3 @@
 # Code Development
 We are newbie coding enthusiasts and hopefully improve our coding by sharing our simple projects in here. 
-This one is the master.
+We will add here projects on asp.NET, .NET, python, ML, C, C#, C++, and Java. 
